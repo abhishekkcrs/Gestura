@@ -181,3 +181,7 @@ Have suggestions or found a bug? Please open an [Issue](mailto:abhishekkcrs@gmai
 - Last activity: August 24, 2025
 - Status: Active
 
+
+## Version
+Current version: v1.4.1
+
