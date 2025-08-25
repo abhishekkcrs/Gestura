@@ -185,3 +185,7 @@ Have suggestions or found a bug? Please open an [Issue](mailto:abhishekkcrs@gmai
 ## Version
 Current version: v1.4.1
 
+
+## Version
+Current version: v8.1.6
+
