@@ -191,3 +191,7 @@ Current version: v8.1.6
 
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--29-blue)
+
+## Version
+Current version: v7.7.7
+
