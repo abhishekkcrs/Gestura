@@ -205,3 +205,7 @@ Current version: v7.7.7
 - Repository maintenance on September 01, 2025
 - Automated updates active
 
+
+## Version
+Current version: v2.3.7
+
